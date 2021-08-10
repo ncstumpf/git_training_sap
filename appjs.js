@@ -1,1 +1,2 @@
-alert("This website is hardcore")
+
+alert("Most insane styling you'll ever see")
